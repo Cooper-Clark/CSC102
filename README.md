@@ -1,2 +1,2 @@
-# CSC102
+# CSC Evolving Project
 I am coding
